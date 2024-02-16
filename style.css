@@ -1,0 +1,62 @@
+*{
+     background-color: rgb(202, 197, 197); 
+    text-align: center;
+    padding: 1rem;
+    font-weight: 0px;
+    font-family: "Raleway", sans-serif;
+    
+} 
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+.container1{
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    border-radius: 50px;
+    color: black;
+    font-weight: lighter;
+    
+}
+
+.h2{
+     background-color: white; 
+    font-size: 30px;
+    color: orange;
+    font-weight: lighter;
+  
+
+}
+.p{
+     background-color: white; 
+    font-size: 18px;
+    padding: 0px 20px  ;    
+}
+
+/* box 2 */
+.container2{
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    border-radius: 50px;
+    color: black;
+    
+    font-weight: lighter;
+    
+}
+
+.heading{
+    background-color: white; 
+   font-size: 30px;
+   color: orange;
+   font-weight: lighter;
+ 
+
+}
+.para{
+    background-color: white; 
+   font-size: 18px;
+   padding: 0px 20px  ; 
+     
+}
